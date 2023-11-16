@@ -6,7 +6,11 @@ permalink: /research/
 <br><b>Papers</b>
 <br><br> A <b>Gray</b>-categorical pasting theorem,
   <br><i>Theory and Applications of Categories</i>, Vol. 39, 2023, No. 5, pp 150-171; also available as <a href="https://arxiv.org/abs/2205.15486">arXiv:2205.15486</a>.
-<br><br> 2-derivators, <i>preprint</i>, <a href="https://arxiv.org/abs/2309.05216">arXiv:2309.05216</a>
+<br><br> 2-derivators, <i>preprint</i>, <a href="https://arxiv.org/abs/2309.05216">arXiv: 2309.05216</a>
+
+<br><br> Some remarks on the interchange in Gray-categories, <i>with Gabriele
+Lobbia</i>, <a href="https://arxiv.org/abs/2310.03503">arXiv: 2310.03503</a>. Submitted.
+
 <br><b>Research talks</b>
 
 <p><a href="http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/abstract.cgi?talkid=1669">2-derivators</a>, Australian Category Seminar (Macquarie University), June 2021.
