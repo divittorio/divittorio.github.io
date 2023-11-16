@@ -44,7 +44,7 @@ table tr, table td, table th {
   </tr>
 </table>
  
-<br><b>Research talks</b>
+# Research talks
 
 <p><a href="http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/abstract.cgi?talkid=1669">2-derivators</a>, Australian Category Seminar (Macquarie University), June 2021.
 <br><p><a href="http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/abstract.cgi?talkid=1696">A <b>Gray</b>-categorical pasting theorem</a>, Australian Category Seminar (Macquarie University), February 2022.
