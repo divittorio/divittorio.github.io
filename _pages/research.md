@@ -3,6 +3,24 @@ layout: page
 title: Publications and preprints
 permalink: /research/
 --- 
+<style>
+  .no-border, .no-border td, .no-border th {
+    border: none;
+      background-color: white;
+  }
+  table {
+   border-collapse: collapse;
+}
+
+table tr, table td, table th {
+   border: none;
+}
+</style>
+<style>
+.right-justify {
+  text-align: right;
+}
+</style>
 
 <table class="no-border">
   <tr>
