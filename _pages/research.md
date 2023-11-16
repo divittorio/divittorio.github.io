@@ -23,6 +23,7 @@ permalink: /research/
       Joint with <a href="https://globbia.github.io/">Gabriele Lobbia</a>, <a href="https://arxiv.org/abs/2310.03503">arXiv: 2310.03503</a>
     </td>
   </tr>
+</table>
  
 <br><b>Research talks</b>
 
