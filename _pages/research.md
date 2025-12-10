@@ -30,6 +30,13 @@ table tr, table td, table th {
      In <i>Advances in Mathematics</i>, Volume 485, February 2026, 110726.  <a href="https://www.sciencedirect.com/science/article/pii/S0001870825006243">Published version</a>,  <a href="https://arxiv.org/abs/2309.05216">arXiv: 2309.05216</a>.
       </td>
   </tr>
+    <tr>
+    <td>2024</td>
+    <td><b>Higher derivators as a foundation for ∞-category theory</b><br>
+      PhD thesis, <a href="https://figshare.mq.edu.au/articles/thesis/Higher_derivators_as_a_foundation_for_-category_theory/27885186?file=51990317">Available online.</a>
+    </td>
+  </tr>
+</table>
   <tr>
     <td>2023</td>
     <td><b>A Gray-categorical pasting theorem</b><br>
@@ -43,12 +50,67 @@ table tr, table td, table th {
     </td>
   </tr>
 </table>
+  <tr>
+    <td>2022</td>
+    <td><b>2-derivators</b><br>
+      Master of Research thesis, <a href="https://figshare.com/articles/thesis/2-derivators/19817653?file=35225071">Available online.</a>
+    </td>
+  </tr>
+</table>
  
-# Research talks
+# Selected talks
 
-<p><a href="http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/abstract.cgi?talkid=1669">2-derivators</a>, Australian Category Seminar (Macquarie University), June 2021.
-<br><p><a href="http://web.science.mq.edu.au/groups/coact/seminar/cgi-bin/abstract.cgi?talkid=1696">A <b>Gray</b>-categorical pasting theorem</a>, Australian Category Seminar (Macquarie University), February 2022.
-<br><p><i>A gentle introduction to 2-derivators</i>, <a href="https://progetto-itaca.github.io/pages/fest22.html">ItaCa Fest 2022</a>, November 2022 (<a href="https://www.youtube.com/watch?v=jytpdgzEYQM">video</a>)
+<table class="no-border">
+     <tr>
+    <td>2025</td>
+    <td><i>Towards 2-derivators for formal ∞-category theory</i><br>
+      Algebra Seminar, Charles University (Prague), <a href="https://github.com/divittorio/divittorio.github.io/blob/master/stuff/Introduction%20to%20the%20theory%20of%202-derivators%20(Charles%20Uni).pdf">Slides.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td><i>2-derivators: two different takes</i><br>
+       Research Institute for Mathematical Sciences, Kyoto University.
+    </td>
+  </tr>
+     <tr>
+    <td>2023</td>
+    <td><i>Pasting in Gray-categories.</i><br>
+       The University of Manchester.
+    </td>
+  </tr>
+    <tr>
+    <td>2023</td>
+    <td><i>An introduction to 2-derivators</i><br>
+      Institute of Mathematics of the Czech Academy of Sciences (Prague).
+    </td>
+  </tr>
+    <tr>
+    <td>2023</td>
+    <td><i>Introduction to the theory of 2-derivators</i><br>
+      Masaryk University Algebra Seminar (Brno).
+    </td>
+  </tr>
+   <tr>
+    <td>2022</td>
+    <td><i>A gentle introduction to 2-derivators</i><br>
+      ItaCa Fest 2022, <a href="https://www.youtube.com/watch?v=jytpdgzEYQM">Video.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td><i>A <b>Gray</b>-categorical pasting theorem</i><br>
+      Australian Category Seminar (Macquarie University), <a href="https://centre-of-australian-category-theory.github.io/seminar/talks/1680">Abstract.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td><i>2-derivators</i><br>
+      Australian Category Seminar (Macquarie University), <a href="https://centre-of-australian-category-theory.github.io/seminar/talks/1653">Abstract.</a>
+    </td>
+  </tr>
+</table>
+
 <br><p><i>Introduction to the theory of 2-derivators</i>, Masaryk University Algebra Seminar, Masaryk University (Brno, Czechia), June 2023
 <br><p><i>An introduction to 2-derivators</i>, Institute of Mathematics of the Czech Academy of Sciences (Prague, Czechia), June 2023
 <br><p><i>Pasting in Gray-categories</i>, The University of Manchester (UK), July 2023
