@@ -36,7 +36,6 @@ table tr, table td, table th {
       PhD thesis, <a href="https://figshare.mq.edu.au/articles/thesis/Higher_derivators_as_a_foundation_for_-category_theory/27885186?file=51990317">Available online.</a>
     </td>
   </tr>
-</table>
   <tr>
     <td>2023</td>
     <td><b>A Gray-categorical pasting theorem</b><br>
@@ -49,7 +48,6 @@ table tr, table td, table th {
       Joint with <a href="https://globbia.github.io/">Gabriele Lobbia</a>, <a href="https://arxiv.org/abs/2310.03503">arXiv: 2310.03503</a>
     </td>
   </tr>
-</table>
   <tr>
     <td>2022</td>
     <td><b>2-derivators</b><br>
@@ -110,7 +108,3 @@ table tr, table td, table th {
     </td>
   </tr>
 </table>
-
-<br><p><i>Introduction to the theory of 2-derivators</i>, Masaryk University Algebra Seminar, Masaryk University (Brno, Czechia), June 2023
-<br><p><i>An introduction to 2-derivators</i>, Institute of Mathematics of the Czech Academy of Sciences (Prague, Czechia), June 2023
-<br><p><i>Pasting in Gray-categories</i>, The University of Manchester (UK), July 2023
