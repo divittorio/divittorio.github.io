@@ -28,6 +28,7 @@ table tr, table td, table th {
     <td>2026</td>
     <td><b> Towards 2-derivators for formal ∞-category theory </b><br>
      In <i>Advances in Mathematics</i>, Volume 485, February 2026, 110726.  <a href="https://www.sciencedirect.com/science/article/pii/S0001870825006243">Published version</a>,  <a href="https://arxiv.org/abs/2309.05216">arXiv: 2309.05216</a>.
+      </td>
   </tr>
   <tr>
     <td>2023</td>
