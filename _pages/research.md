@@ -33,7 +33,7 @@ table tr, table td, table th {
   <tr>
     <td>2023</td>
     <td><b>A Gray-categorical pasting theorem</b><br>
-      In <i>Theory and Applications of Categories</i>, Vol. 39, 2023, No. 5, pp 150-171. <a href="http://www.tac.mta.ca/tac/volumes/39/5/39-05.pdf">Published version</a>, <a href="https://arxiv.org/abs/2205.15486">arXiv: 2205.15486</a>.
+      In <i>Theory and Applications of Categories</i>, Vol. 39, 2023, No. 5, pp 150-171. <a href="http://www.tac.mta.ca/tac/volumes/39/5/39-05abs.html">Published version</a>, <a href="https://arxiv.org/abs/2205.15486">arXiv: 2205.15486</a>.
   </td>
 </tr>
   <tr>
