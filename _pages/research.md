@@ -25,17 +25,16 @@ table tr, table td, table th {
 
 <table class="no-border">
   <tr>
+    <td>2026</td>
+    <td><b> Towards 2-derivators for formal ∞-category theory </b><br>
+     In <i>Advances in Mathematics</i>, Volume 485, February 2026, 110726.  <a href="https://www.sciencedirect.com/science/article/pii/S0001870825006243">Published version</a>,  <a href="https://arxiv.org/abs/2309.05216">arXiv: 2309.05216</a>.
+  </tr>
+  <tr>
     <td>2023</td>
     <td><b>A Gray-categorical pasting theorem</b><br>
       In <i>Theory and Applications of Categories</i>, Vol. 39, 2023, No. 5, pp 150-171. <a href="http://www.tac.mta.ca/tac/volumes/39/5/39-05.pdf">Published version</a>, <a href="https://arxiv.org/abs/2205.15486">arXiv:2205.15486</a>.
   </td>
-  </tr>
-  <tr>
-    <td>2023</td>
-    <td><b> 2-derivators </b><br>
-      <a href="https://arxiv.org/abs/2309.05216">arXiv: 2309.05216</a>.
-  </td>
-  </tr>
+</tr>
   <tr>
     <td>2023</td>
     <td><b>Some remarks on the interchange in Gray-categories</b><br>
