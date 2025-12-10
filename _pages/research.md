@@ -45,7 +45,7 @@ table tr, table td, table th {
   <tr>
     <td>2023</td>
     <td><b>Some remarks on the interchange in Gray-categories</b><br>
-      Joint with <a href="https://globbia.github.io/">Gabriele Lobbia</a>, <a href="https://arxiv.org/abs/2310.03503">arXiv: 2310.03503</a>
+      Joint with <a href="https://globbia.github.io/">Gabriele Lobbia</a>, <a href="https://arxiv.org/abs/2310.03503">arXiv: 2310.03503</a>. Submitted.
     </td>
   </tr>
   <tr>
