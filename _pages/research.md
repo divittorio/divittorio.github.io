@@ -73,7 +73,7 @@ table tr, table td, table th {
   </tr>
      <tr>
     <td>2023</td>
-    <td><i>Pasting in Gray-categories.</i><br>
+    <td><i>Pasting in <b>Gray</b>-categories.</i><br>
        Department of Mathematics of The University of Manchester.
     </td>
   </tr>
