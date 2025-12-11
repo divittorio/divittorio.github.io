@@ -62,7 +62,7 @@ table tr, table td, table th {
      <tr>
     <td>2025</td>
     <td><i>Towards 2-derivators for formal ∞-category theory</i><br>
-      Algebra Seminar, Charles University (Prague), <a href="(https://divittorio.github.io/stuff/Introduction%20to%20the%20theory%20of%202-derivators%20(Charles%20Uni).pdf">Slides.</a>
+      Algebra Seminar, Charles University (Prague), <a href="https://divittorio.github.io/stuff/Introduction%20to%20the%20theory%20of%202-derivators%20(Charles%20Uni).pdf">Slides.</a>
     </td>
   </tr>
   <tr>
