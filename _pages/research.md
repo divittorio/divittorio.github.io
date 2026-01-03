@@ -72,7 +72,7 @@ table tr, table td, table th {
  <tr>
     <td>2017</td>
     <td><b>Brown's representability theorem for triangulated categories</b><br>
-      BSc thesis, in Italian <a href="https://divittorio.github.io/stuff/monads.pdf">Available here.</a>
+      BSc thesis, in Italian. <a href="https://divittorio.github.io/stuff/monads.pdf">Available here.</a>
     </td>
   </tr>
 </table>
