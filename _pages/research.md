@@ -52,21 +52,21 @@ table tr, table td, table th {
 <tr>
     <td>2024</td>
     <td><b>Higher derivators as a foundation for ∞-category theory</b><br>
-      PhD thesis, <a href="https://figshare.mq.edu.au/articles/thesis/Higher_derivators_as_a_foundation_for_-category_theory/27885186?file=51990317">Available online.</a>
+      PhD thesis. <a href="https://figshare.mq.edu.au/articles/thesis/Higher_derivators_as_a_foundation_for_-category_theory/27885186?file=51990317">Available online.</a>
     </td>
   </tr>
   
 <tr>
     <td>2022</td>
     <td><b>2-derivators</b><br>
-      Master of Research thesis, <a href="https://figshare.com/articles/thesis/2-derivators/19817653?file=35225071">Available online.</a>
+      Master of Research thesis. <a href="https://figshare.com/articles/thesis/2-derivators/19817653?file=35225071">Available online.</a>
     </td>
   </tr>
 
   <tr>
     <td>2019</td>
     <td><b>On the embeddings of quasi-categories into prederivators</b><br>
-      MSc thesis, <a href="https://thesis.unipd.it/handle/20.500.12608/28019">Available online.</a>
+      MSc thesis. <a href="https://thesis.unipd.it/handle/20.500.12608/28019">Available online.</a>
     </td>
   </tr>
  <tr>
