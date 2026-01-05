@@ -48,7 +48,7 @@ table tr, table td, table th {
 </table>
 
 
-# Selected talks
+# Talks
 
 <table class="no-border">
      <tr>
