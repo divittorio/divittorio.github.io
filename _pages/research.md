@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications and preprints
-permalink: /research/
+permalink: /writings/
 --- 
 
 <style>
