@@ -3,6 +3,7 @@ layout: page
 title: 
 permalink: /events/
 --- 
+
 <style>
   .no-border, .no-border td, .no-border th {
     border: none;
@@ -46,7 +47,6 @@ table tr, table td, table th {
   </tr>
   
 </table>
-
 
 # Talks
 
@@ -100,3 +100,5 @@ table tr, table td, table th {
     </td>
   </tr>
 </table>
+
+
