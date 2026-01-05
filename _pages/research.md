@@ -66,13 +66,13 @@ table tr, table td, table th {
   <tr>
     <td>2019</td>
     <td><b>On the embeddings of quasi-categories into prederivators</b><br>
-      MSc thesis. <a href="https://thesis.unipd.it/handle/20.500.12608/28019">Available online.</a>
+      MSc thesis. <a href="https://thesis.unipd.it/handle/20.500.12608/28019">Available online.</a> <a href="https://divittorio.github.io/stuff/slides_magistrale.pdf"> Slides. </a>
     </td>
   </tr>
  <tr>
     <td>2017</td>
     <td><b>Brown's representability theorem for triangulated categories</b><br>
-      BSc thesis, in Italian. <a href="https://divittorio.github.io/stuff/tesitriennale.pdf">Available here.</a>
+      BSc thesis, in Italian. <a href="https://divittorio.github.io/stuff/tesitriennale.pdf">Available here.</a> <a href="https://divittorio.github.io/stuff/slides_triennale.pdf"> Slides.</a>
     </td>
   </tr>
 </table>
