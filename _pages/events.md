@@ -3,6 +3,24 @@ layout: page
 title: Events
 permalink: /events/
 --- 
+<style>
+  .no-border, .no-border td, .no-border th {
+    border: none;
+      background-color: white;
+  }
+  table {
+   border-collapse: collapse;
+}
+
+table tr, table td, table th {
+   border: none;
+}
+</style>
+<style>
+.right-justify {
+  text-align: right;
+}
+</style>
 
 <br>I am one of the organisers of the <a href="http://web.science.mq.edu.au/groups/coact/seminar/CaCS2021/">Categories and Companions Symposium 2021</a>, that took place online from June 8 to June 12, 2021.
 <br><br>I am part of the scientific committee of the <a href="https://www.marcyrobertson.com/australian-kittens--an-ecr-conference.html">Australian Kittens 2021: A Meeting of Early Career Researchers in Category Theory and Homotopy Theory</a>, that took place online on December 2-3, 2021. 
