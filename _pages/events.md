@@ -29,7 +29,7 @@ table tr, table td, table th {
      <tr>
     <td>2022</td>
     <td><a href="https://categories-and-companions.github.io/"><b>Categories and Companions Symposium 2022</b></a>, <i> Organizer</i>.<br>
-     <a href="https://www.matrix-inst.org.au/">MATRIX Institute<\a> in Creswick, Victoria (Australia) and online. September 19 to September 23, 2022.
+     <a href="https://www.matrix-inst.org.au/">MATRIX Institute</a> in Creswick, Victoria (Australia) and online. September 19 to September 23, 2022.
     </td>
   </tr>
 
