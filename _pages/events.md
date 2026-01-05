@@ -37,6 +37,7 @@ table tr, table td, table th {
     <td>2021</td>
     <td><a href="https://www.marcyrobertson.com/australian-kittens--an-ecr-conference.html"><b>Australian Kittens 2021: A Meeting of Early Career Researchers in Category Theory and Homotopy Theory</b></a>, <i> Member of the scientific committee</i>.<br>
      Online. December 2-3, 2021. 
+    </td>
   </tr>
 
 <tr>
@@ -47,5 +48,60 @@ table tr, table td, table th {
   </tr>
   
 </table>
+
+
+# Talks
+
+<table class="no-border">
+     <tr>
+    <td>2025</td>
+    <td><i>Towards 2-derivators for formal ∞-category theory</i><br>
+      Algebra Seminar, Charles University (Prague).
+    </td>
+  </tr>
+  <tr>
+    <td>2025</td>
+    <td><i>2-derivators: two different takes</i><br>
+       Research Institute for Mathematical Sciences, Kyoto University.
+    </td>
+  </tr>
+     <tr>
+    <td>2023</td>
+    <td><i>Pasting in <b>Gray</b>-categories.</i><br>
+       Department of Mathematics of The University of Manchester.
+    </td>
+  </tr>
+    <tr>
+    <td>2023</td>
+    <td><i>An introduction to 2-derivators</i><br>
+      Institute of Mathematics of the Czech Academy of Sciences (Prague).
+    </td>
+  </tr>
+    <tr>
+    <td>2023</td>
+    <td><i>Introduction to the theory of 2-derivators</i><br>
+      Masaryk University Algebra Seminar (Brno).
+    </td>
+  </tr>
+   <tr>
+    <td>2022</td>
+    <td><i>A gentle introduction to 2-derivators</i><br>
+      ItaCa Fest 2022, <a href="https://www.youtube.com/watch?v=jytpdgzEYQM">Video.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2022</td>
+    <td><i>A <b>Gray</b>-categorical pasting theorem</i><br>
+      Australian Category Seminar (Macquarie University), <a href="https://centre-of-australian-category-theory.github.io/seminar/talks/1680">Abstract.</a>
+    </td>
+  </tr>
+  <tr>
+    <td>2021</td>
+    <td><i>2-derivators</i><br>
+      Australian Category Seminar (Macquarie University), <a href="https://centre-of-australian-category-theory.github.io/seminar/talks/1653">Abstract.</a>
+    </td>
+  </tr>
+</table>
+
 
 
