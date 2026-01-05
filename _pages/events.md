@@ -44,6 +44,7 @@ table tr, table td, table th {
     Online. June 8 to June 12, 2021.
     </td>
   </tr>
+</table>
 
 # Selected talks
 
