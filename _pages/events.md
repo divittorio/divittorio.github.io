@@ -56,7 +56,7 @@ table tr, table td, table th {
      <tr>
     <td>2025</td>
     <td><i>Towards 2-derivators for formal ∞-category theory</i><br>
-      Algebra Seminar, Charles University (Prague).
+      Algebra Seminar, Charles University (Prague).<a href="https://ka.karlin.mff.cuni.cz/bsem.htm#2025"> Abstract.</a> 
     </td>
   </tr>
   <tr>
@@ -86,22 +86,20 @@ table tr, table td, table th {
    <tr>
     <td>2022</td>
     <td><i>A gentle introduction to 2-derivators</i><br>
-      ItaCa Fest 2022, <a href="https://www.youtube.com/watch?v=jytpdgzEYQM">Video.</a>
+      ItaCa Fest 2022.<a href="https://www.youtube.com/watch?v=jytpdgzEYQM"> Video.</a>
     </td>
   </tr>
   <tr>
     <td>2022</td>
     <td><i>A <b>Gray</b>-categorical pasting theorem</i><br>
-      Australian Category Seminar (Macquarie University), <a href="https://centre-of-australian-category-theory.github.io/seminar/talks/1680">Abstract.</a>
+      Australian Category Seminar (Macquarie University).<a href="https://centre-of-australian-category-theory.github.io/seminar/talks/1680"> Abstract.</a>
     </td>
   </tr>
   <tr>
     <td>2021</td>
     <td><i>2-derivators</i><br>
-      Australian Category Seminar (Macquarie University), <a href="https://centre-of-australian-category-theory.github.io/seminar/talks/1653">Abstract.</a>
+      Australian Category Seminar (Macquarie University).<a href="https://centre-of-australian-category-theory.github.io/seminar/talks/1653"> Abstract.</a>
     </td>
   </tr>
 </table>
-
-
 
