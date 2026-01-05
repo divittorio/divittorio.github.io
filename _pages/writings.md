@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications and preprints
+title: 
 permalink: /writings/
 --- 
 
@@ -22,6 +22,8 @@ table tr, table td, table th {
   text-align: right;
 }
 </style>
+
+# Research articles
 
 <table class="no-border">
   <tr>
