@@ -23,7 +23,7 @@ table tr, table td, table th {
 }
 </style>
 
-# Conference organization
+# Conferences
 
 <table class="no-border">
      <tr>
