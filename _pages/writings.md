@@ -59,7 +59,7 @@ table tr, table td, table th {
   </tr>
   
 <tr>
-    <td>2022</td>
+    <td>2020</td>
     <td><b>2-derivators</b><br>
       Master of Research thesis. <a href="https://figshare.com/articles/thesis/2-derivators/19817653?file=35225071">Available online.</a>
     </td>
